@@ -5,7 +5,6 @@
 ### Category Name 1 
 
 [About me](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Hyperspectral Super-Resolution with Coupled Tucker Approximation: Recoverability and SVD-based algorithms](/pdf/sample_presentation.pdf)
