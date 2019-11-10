@@ -11,3 +11,6 @@ Campus Sciences, BP 70239 <br>
 54506 Vandœuvre-lès-Nancy <br>
 France <br>
 </i>
+```javascript
+E-mail: clemence.prevost@univ-lorraine.fr
+```
