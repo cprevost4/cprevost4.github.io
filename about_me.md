@@ -18,3 +18,8 @@ E-mail: clemence.prevost@univ-lorraine.fr
 ## Research
 
 I work on <b>multimodal data fusion by low-rank approximations</b>. This includes various applications: in particular, I have been working on the hyperspectral super-resolution problem. My main interests are <b>tensor decompositions, low-rank factorization, multimodal data fusion</b> and performance analysis by means of <b>Cramér-Rao bounds</b>.
+
+## Others
+
+- Student member of the organizing commitee for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
+- Student member of the organizing commitee for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
