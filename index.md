@@ -11,7 +11,7 @@
 ### [Publications](/publications)
 
 ---
-### Support files
+### [Support files](/support_files)
 You'll find here a collection of past posters and presentations.
 
 ---
