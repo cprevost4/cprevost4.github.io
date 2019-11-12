@@ -4,7 +4,7 @@
 ### [About me](/about_me)
 
 ---
-### [Hyperspectral Super-Resolution with Coupled Tucker Approximation: Recoverability and SVD-based algorithms](/sample_page)
+### [Hyperspectral Super-Resolution with Coupled Tucker Approximation: Recoverability and SVD-based algorithms](https://cprevost4.github.io/HSR_Software/)
 <img src="images/hsr.jpg?raw=true"/>
 
 ---
