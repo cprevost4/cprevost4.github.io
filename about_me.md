@@ -21,5 +21,5 @@ I work on <b>multimodal data fusion by low-rank approximations</b>. This include
 
 ## Others
 
-- Student member of the organizing commitee for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
-- Student member of the organizing commitee for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
+- <b>Student member in the organizing commitee</b> for ENBIS 2018 (Nancy, FR 🇫🇷): preparation, registration and technical support
+- <b>Student member in the organizing commitee</b> for CAMSAP 2019 (Le Gosier, Guadeloupe, West Indies, FR 🇫🇷): registration
