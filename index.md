@@ -8,7 +8,7 @@
 <img src="images/hsr.jpg?raw=true"/>
 
 ---
-### Publications
+### [Publications](/publications)
 
 ---
 ### Support files
