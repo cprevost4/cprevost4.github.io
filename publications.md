@@ -2,6 +2,7 @@
 
 Here you'll find an overview of my publications sorted by date (most recent).
 
+- <b>On Cramér-Rao lower bounds with random equality constraints</b> - Clémence Prévost, Eric Chaumette, Konstantin Usevich, David Brie, Pierre Comon - *2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
 - <b>Hyperspectral super-resolution with coupled Tucker approximation: Identifiability and SVD-based algorithms</b> - Clémence Prévost, Konstantin Usevich, Pierre Comon, David Brie - *2019 arXiv preprint arXiv:1811.11091*
 &#8594; <i>Published in IEEE Transactions on Signal Processing, 2020</i>
 - <b>Performance bounds for coupled CP model in the framework of hyperspectral super-resolution</b> - Clémence Prévost, Konstantin Usevich, Pierre Comon, Martin Haardt, David Brie - *2019 IEEE CAMSAP*
