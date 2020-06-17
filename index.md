@@ -3,6 +3,8 @@
 
 ### [About me](/about_me)
 
+You can click [here](/pdf/CV.pdf) to see my full resume.
+
 ---
 ### [Hyperspectral Super-Resolution with Coupled Tucker Approximation: Recoverability and SVD-based algorithms](https://cprevost4.github.io/HSR_Software/)
 <img src="images/hsr.jpg?raw=true"/>
