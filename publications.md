@@ -13,4 +13,5 @@ Here you'll find an overview of my publications sorted by date (most recent).
 - [Coupled tensor low-rank multilinear approximation for hyperspectral super-resolution](/pdf/HSR_ICASSP_short.pdf) - Clémence Prévost, Konstantin Usevich, Pierre Comon, David Brie - *2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
 
 ### Preprints
-
+- [Coupled Tensor Decomposition for Hyperspectral and Multispectral Image Fusion with Variability](https://arxiv.org/abs/2006.16968) - Ricardo Augusto Borsoi, Clémence Prévost, Konstantin Usevich, David Brie, José Carlos Moreira Bermudez, Cédric Richard - *2020 arXiv preprint arXiv:2006.16968*
+&#8594; [Visit Ricardo's website for more related papers on the topic](https://ricardoborsoi.github.io/index.html)
