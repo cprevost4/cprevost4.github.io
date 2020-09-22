@@ -10,8 +10,7 @@ You can click [here](/pdf/CV.pdf) to see my full resume.
 <img src="images/hsr.jpg?raw=true"/>
 
 ---
-### Cramér-Rao bounds for coupled CP models in the framework of super-resolution
-Coming soon !
+### [Cramér-Rao bounds for coupled CP models in the framework of super-resolution](https://cprevost4.github.io/CCRB_Software/)
 
 ---
 ### [Publications](/publications)
