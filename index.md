@@ -17,7 +17,7 @@ You can click [here](/pdf/CV.pdf) to see my full resume.
 ### [Publications](/publications)
 
 ---
-### [Support files](/support_files)
+### [Talks](/support_files)
 You'll find here a collection of past posters and presentations.
 
 ---
